@@ -4,7 +4,7 @@
 
 🧑‍💻 Software Developer | React & JavaScript Enthusiast
 
-🚀 About Me ==>"I always aim to create solutions that are functional, practical, and easy to understand, driven by my passions."
+🚀 About Me "I always aim to create solutions that are functional, practical, and easy to understand, driven by my passions."
 
 
 🎓 Studying Computer Science and constantly improving my skills.
