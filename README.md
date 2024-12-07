@@ -16,8 +16,8 @@
 
 ⚡ Skills & Technologies ,I'm useing many of tools which are most facing IT industry
 
-📊 GitHub Stats 👉 My GitHub
-==> https://github.com/SemraGunaydin/
+📊 GitHub Stats 👉 
+ https://github.com/SemraGunaydin/
 
 📫 Connect With Me Email: gunaydinsemra34@gmail.com
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/semra-g%C3%BCnaydin/)
