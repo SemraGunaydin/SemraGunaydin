@@ -1,4 +1,5 @@
 👋 Hello, I'm Semra Gunaydin!
+A passionate software developer from Turkey,Poland!
 
 🧑‍💻 Software Developer | React & JavaScript Enthusiast
 
