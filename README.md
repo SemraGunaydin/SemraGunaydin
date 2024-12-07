@@ -1,8 +1,11 @@
 👋 Hello, I'm Semra Gunaydin!
+
 📍 Turkey | Poland
+
 🧑‍💻 Software Developer | React & JavaScript Enthusiast
 
-🚀 About Me
+🚀 About Me ==>"I always aim to create solutions that are functional, practical, and easy to understand, driven by my passions."
+
 
 🎓 Studying Computer Science and constantly improving my skills.
 
@@ -14,9 +17,13 @@
 
 ⚡ Skills & Technologies
 Proficient in tools and technologies widely used in the IT industry, including:
+
 Frontend: React.js, JavaScript, HTML, CSS
+
 Backend: Node.js, Express..
+
 Data:  Python (Pandas, NumPy), Tableau,PowerBI, SQL]
+
 Other: Git, GitHub, Tableau Public.
 
 📫 Connect With Me via
