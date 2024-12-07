@@ -6,7 +6,7 @@
 
 🔭 About Me data codding,analyz,visualisation etc..
 
-🚀 I'm currently working in the software industry.
+🚀 I'm currently working in the tech industry.
 
 🌱 Studying computer science and constantly improving my skills.
 
