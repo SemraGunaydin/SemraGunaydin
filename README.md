@@ -7,11 +7,11 @@
 🚀 About Me "I always aim to create solutions that are functional, practical, and easy to understand, driven by my passions."
 
 
-🎓 Studying Computer Science and constantly improving my skills.
+🎓 Studied Computer Science and constantly improving my skills.
 
 💻 Passionate about coding, data analysis, and visualization.
 
-🔨 Building modern and responsive projects using React, JavaScript, React Native, and more.
+🔨 Building modern and responsive projects using React, JavaScript, React Native, and so on.
 
 🧩 Love learning new technologies, solving challenging problems, and developing meaningful projects.
 
@@ -26,7 +26,8 @@ Data:  Python (Pandas, NumPy), Tableau,PowerBI, SQL]
 
 Other: Git, GitHub, Tableau Public.
 
-📫 Connect With Me via
+📫 Connect With Me via and others
 💌 Email: gunaydinsemra34@gmail.com
 💼 LinkedIn:https://www.linkedin.com/in/semra-g%C3%BCnaydin/
+🔭 Tableau Public : https://public.tableau.com/app/profile/semra.gunaydin/vizzes
 🌐 Portfolio: Coming Soon
