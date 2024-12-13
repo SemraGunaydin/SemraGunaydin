@@ -2,7 +2,7 @@
 
 📍 Turkey | Poland
 
-🧑‍💻 Software Developer | React & JavaScript Enthusiast
+🧑‍💻 Software Developer | Data Science
 
 🚀 About Me "I always aim to create solutions that are functional, practical, and easy to understand, driven by my passions."
 
@@ -16,7 +16,7 @@
 🧩 Love learning new technologies, solving challenging problems, and developing meaningful projects.
 
 ⚡ Skills & Technologies
-- Proficient in tools and technologies widely used in the IT industry, including:
+ 👉 Proficient in tools and technologies widely used in the IT industry, including:
 
 - Frontend: React.js, JavaScript, HTML, CSS
 
