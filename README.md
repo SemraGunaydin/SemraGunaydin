@@ -1,4 +1,4 @@
-👋 Hello, I'm Semra Gunaydin!
+# 👋 Hello, I'm Semra Gunaydin!
 
 📍 Turkey | Poland
 
@@ -16,15 +16,15 @@
 🧩 Love learning new technologies, solving challenging problems, and developing meaningful projects.
 
 ⚡ Skills & Technologies
-Proficient in tools and technologies widely used in the IT industry, including:
+- Proficient in tools and technologies widely used in the IT industry, including:
 
-Frontend: React.js, JavaScript, HTML, CSS
+- Frontend: React.js, JavaScript, HTML, CSS
 
-Backend: Node.js, Express..
+- Backend: Node.js, Express..
 
-Data:  Python (Pandas, NumPy), Tableau,PowerBI, SQL]
+- Data:  Python (Pandas, NumPy), Tableau,PowerBI, SQL]
 
-Other: Git, GitHub, Tableau Public.
+- Other: Git, GitHub, Tableau Public.
 
 📫 Connect With Me via 👉👉👉
 💌 Email: gunaydinsemra34@gmail.com
