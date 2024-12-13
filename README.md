@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Semra Gunaydin!
+# 👋 Hello, I'm Semra Günaydın!
 
 📍 Turkey | Poland
 
