@@ -28,7 +28,7 @@
 - Other: Git, GitHub, Tableau Public.
 
 📫 Connect With Me via 👉👉👉
-💌 Email: gunaydinsemra34@gmail.com
+💌 Email: semra.gunaydinwork@outlook.com
 💼 LinkedIn:https://www.linkedin.com/in/semra-g%C3%BCnaydin/
 🔭 Tableau Public : https://public.tableau.com/app/profile/semra.gunaydin/vizzes
 🌐 Portfolio: Coming Soon
