@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Semra Günaydın!
+# 👋 "Hi, I'm Semra Günaydın, a passionate Software Developer with a focus on Full-Stack Web & Mobile Development and Data Science."
 
-📍 Turkey | Poland
+📍 Turkey | Poland | Open to remote opportunities worldwide  
 
-🧑‍💻 Software Developer | Data Science
+💻 Software Developer | Full-Stack Web & Mobile | Data Science Enthusiast
 
-🚀 About Me "I always aim to create solutions that are functional, practical, and easy to understand, driven by my passions."
+🚀 About Me “I enjoy transforming complex ideas into simple, elegant and user-friendly solutions. I thrive in collaborative environments and I’m always curious to learn new technologies.”
 
 
 🎓 Studied Computer Science and constantly improving my skills.
@@ -19,16 +19,20 @@
 
   Proficient in tools and technologies widely used in the IT industry, including:
 
-- Frontend: React.js, JavaScript, HTML, CSS,SCSS(SASS)...
+**Frontend:** React.js, JavaScript, HTML, CSS, SCSS (SASS)  
+**Backend:** Node.js, Express.js  
+**Mobile:** React Native  
+**Data:** Python (Pandas, NumPy), Tableau, PowerBI, SQL  
+**Tools:** Git, GitHub, Docker, Tableau Public
 
-- Backend: Node.js, Express..
+🌐 **Portfolio**
+Check out my projects here: [Portfolio Link] — more coming soon!
 
-- Data:  Python (Pandas, NumPy), Tableau,PowerBI, SQL]...
+📫 **Connect With Me**
+- 📧 [Email](mailto:semra.gunaydinwork@outlook.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/semra-g%C3%BCnaydin/)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/semra.gunaydin/vizzes)
 
-- Other: Git, GitHub, Tableau Public.
+👉📧 Feel free to reach out for collaboration, freelance projects, or just to connect!
 
-📫 Connect With Me via 👉👉👉
-💌 Email: semra.gunaydinwork@outlook.com
-💼 LinkedIn:https://www.linkedin.com/in/semra-g%C3%BCnaydin/
-🔭 Tableau Public : https://public.tableau.com/app/profile/semra.gunaydin/vizzes
-🌐 Portfolio: Coming Soon
+ **Let’s build something amazing together!**
