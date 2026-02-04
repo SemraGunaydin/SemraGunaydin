@@ -1,20 +1,12 @@
-# 👋 "Hi, I'm Semra Günaydın, a passionate Software Developer with a focus on Full-Stack Web & Mobile Development and Data Science."
+# Hi, I'm Semra 👋  
+Full-Stack Software Engineer focused on building scalable web and mobile applications.
 
-📍 Turkey | Poland | Open to remote opportunities worldwide  
+📍 Based in Poland | Open to EU & Remote Opportunities
 
-💻 Software Developer | Full-Stack Web & Mobile | Data Science Enthusiast
-
-🚀 About Me “I enjoy transforming complex ideas into simple, elegant and user-friendly solutions. I thrive in collaborative environments and I’m always curious to learn new technologies.”
-
-
-🎓 Studied Computer Science and constantly improving my skills.
-
-💻 Passionate about coding, data analysis, and visualization.
-
-🔨 Building modern and responsive projects using React, JavaScript, React Native, and so on.
-
-🧩 Love learning new technologies, solving challenging problems, and developing meaningful projects.
-
+🔹 5+ years experience in React, React Native, Node.js and TypeScript  
+🔹 Experience designing microservices and REST APIs  
+🔹 Interested in performance optimization and scalable architecture  
+🔹 Passionate about building user-focused products 
 ⚡ Skills & Technologies
 
   Proficient in tools and technologies widely used in the IT industry, including:
