@@ -1,30 +1,43 @@
-# Hi, I'm Semra 👋  
-Full-Stack Software Engineer focused on building scalable web and mobile applications.
+# Hi, I'm Semra 👋
+
+Software Engineer focused on building modern web applications with **React** and **TypeScript**.
+
+I recently completed my MSc in Computer Science and currently focus on developing real-world projects while strengthening my data structures & algorithms skills.
 
 📍 Based in Poland | Open to EU & Remote Opportunities
 
-🔹 5+ years experience in React, React Native, Node.js and TypeScript  
-🔹 Experience designing microservices and REST APIs  
-🔹 Interested in performance optimization and scalable architecture  
-🔹 Passionate about building user-focused products 
-⚡ Skills & Technologies
+---
 
-  Proficient in tools and technologies widely used in the IT industry, including:
+## 🚀 What I'm Working On
+- Building React + TypeScript applications
+- Creating clean, reusable UI components
+- Developing REST APIs with Node.js & Express
+- Improving problem-solving and algorithmic thinking
 
-**Frontend:** React.js, JavaScript, HTML, CSS, SCSS (SASS)  
-**Backend:** Node.js, Express.js  
+---
+
+## 🛠 Tech Stack
+
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, SCSS  
+**Backend:** Node.js, Express.js, REST APIs  
 **Mobile:** React Native  
-**Data:** Python (Pandas, NumPy), Tableau, PowerBI, SQL  
-**Tools:** Git, GitHub, Docker, Tableau Public
+**Data:** Python (Pandas, NumPy), SQL, Tableau, Power BI  
+**Tools:** Git, GitHub, Docker
 
-🌐 **Portfolio**
-Check out my projects here: [Portfolio Link] — more coming soon!
+---
 
-📫 **Connect With Me**
-- 📧 [Email](mailto:semra.gunaydinwork@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/semra-g%C3%BCnaydin/)
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/semra.gunaydin/vizzes)
+## 🌱 Currently Learning
+- Frontend architecture & performance optimization
+- Scalable application design
+- Advanced JavaScript & TypeScript patterns
 
-👉📧 Feel free to reach out for collaboration, freelance projects, or just to connect!
+---
+
+## 🌐 Portfolio
+Projects and live demos: **🎥 Project demos are available as GIF previews inside each repository.**  
+(More projects coming soon 🚀)pp/profile/semra.gunaydin/vizzes)
+
+. 👉📧 Feel free to reach out for collaboration, freelance projects, or just to connect!
+. 📫 Reach me on LinkedIn:https://www.linkedin.com/in/semra-g%C3%BCnaydin/
 
  **Let’s build something amazing together!**
