@@ -21,7 +21,7 @@ I recently completed my MSc in Computer Science and currently focus on developin
 **Frontend:** React, TypeScript, JavaScript, HTML, CSS, SCSS  
 **Backend:** Node.js, Express.js, REST APIs  
 **Mobile:** React Native  
-**Data:** Python (Pandas, NumPy), SQL, Tableau, Power BI  
+**Data:** SQL, Tableau, Power BI  
 **Tools:** Git, GitHub, Docker
 
 ---
