@@ -1,6 +1,6 @@
 # Hi, I'm Semra 👋
 
-Software Engineer focused on building modern web applications with **React** and **TypeScript**.
+Software Engineer focused on building modern web applications with **React** and **TypeScript/JaavaScript**.
 
 I recently completed my MSc in Computer Science and currently focus on developing real-world projects while strengthening my data structures & algorithms skills.
 
