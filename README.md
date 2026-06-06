@@ -1,8 +1,8 @@
 # Hi, I'm Semra 👋
 
-Software Engineer focused on building modern web applications with **React** and **TypeScript/JaavaScript**.
+Full Stack Software Engineer | React • Next.js • TypeScript • Node.js | Building scalable web applications and continuously improving through real-world projects.
 
-I recently completed my MSc in Computer Science and currently focus on developing real-world projects while strengthening my data structures & algorithms skills.
+I graduated  MSc in Computer Science and currently focus on developing real-world projects while strengthening my data structures & algorithms skills.
 
 📍 Based in Poland | Open to EU & Remote Opportunities
 
